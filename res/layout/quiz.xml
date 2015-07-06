@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:weightSum="1">
+  	<TableRow  android:layout_width="fill_parent" android:layout_height="15dip">
+  	<TextView android:id="@+id/quizStats" android:layout_height="fill_parent" android:layout_width="fill_parent" android:text="1/100"></TextView>
+    </TableRow>
+    <TextView android:id="@+id/quizWord" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="TextView" android:textSize="40dip"></TextView>
+    <RadioButton android:id="@+id/choice1" android:layout_height="100dip"  android:text="RadioButton" android:layout_width="fill_parent"></RadioButton>
+    <RadioButton android:text="RadioButton" android:id="@+id/choice2" android:layout_width="fill_parent" android:layout_height="100dip" android:layout_gravity="bottom"></RadioButton>
+    <RadioButton android:text="RadioButton" android:id="@+id/choice3" android:layout_width="fill_parent" android:layout_height="100dip"></RadioButton>
+    <RadioButton android:text="RadioButton" android:id="@+id/choice4" android:layout_width="fill_parent" android:layout_height="100dip"></RadioButton>
+    
+</LinearLayout>

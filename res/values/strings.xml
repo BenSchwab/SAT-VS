@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SATVocabActivity!</string>
+    <string name="app_name">SATVocab</string>
+    <string name="about">Vocabulist SAT is a vocabulary review application.  The application includes a main list of words.  From this list you can click on a word for a definition.  You can also mark a word to be included in a study set by clicking the check mark next to the word.  To select a word set use the scrolldown menu.  The application also includes word roots.  Finally, you can study word sets by using the study mode.  This application was created by Penguin 13 Studios.  Copyright Ben Schwab 2011.</string>
+    <string name="study_label">Study Words</string>
+    <string name="word_list_label">Word List</string>
+    <string name="word_roots_label">Word Roots</string>
+    <string name="about_label">About</string>
+    <string name="main_title">SAT Word Challenge</string>
+    <string name="exit_label">Exit</string>
+    <string name="list_prompt">Choose a planet</string>
+    <string-array name="list_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="word1">Word1</string>
+    <string name="word2">Word2</string>
+    <string name="word3">Word3</string>
+    <string name="word4">Word4</string>
+    <string name="word5">Word5</string>
+    <string name="word6">Word6</string>
+    <string name="word7">Word7</string>
+    <string name="word8">Word8</string>
+    <string name="word9">Word9</string>
+    <string name="word10">Word10</string>
+    <string name="word11">Word11</string>
+    <string name="word12">Word12</string>
+    <string name="word13">Word13</string>
+    <string name="word14">Word14</string>
+    <string name="word15">Word15</string>
+    <string name="word16">Word16</string>
+</resources>
